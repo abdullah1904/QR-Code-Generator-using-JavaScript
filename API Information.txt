@@ -1,0 +1,9 @@
+URL: https://chart.googleapis.com/chart?
+
+PARAMETERS:
+cht=qr
+chs=<width>x<height>
+chl=data
+
+EXAMPLE:
+https://chart.googleapis.com/chart?cht=qr&chs=150x150&chl=Hello
